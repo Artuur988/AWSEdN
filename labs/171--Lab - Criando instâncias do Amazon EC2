@@ -6,4 +6,4 @@
 - Iniciar uma instância do EC2 usando a AWS CLI.
 
 ### Diagrama de fluxo 
-
+![Diagrama do projeto](InstaciaEC2.drawio)
