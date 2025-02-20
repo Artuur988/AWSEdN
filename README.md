@@ -5,7 +5,7 @@
 ## Reponsável: 
   - Artur Siqueira
 
-#AWS Re/Start 
+# AWS Re/Start 
 
 
 ## 171- Lab -Criação de instâncias do Amazon EC2
