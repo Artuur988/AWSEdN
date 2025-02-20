@@ -1,2 +1,6 @@
 # AWSEdN
-Repositório de Labs da AWS da Escola da Nuvem
+
+## Repositório de Laboratórios da AWS da Escola da Nuvem
+
+## Reponsável: 
+  - Artur Siqueira
