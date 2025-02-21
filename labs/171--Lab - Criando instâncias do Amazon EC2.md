@@ -1,4 +1,4 @@
-# Configuração de Instâncias EC2 na AWS  
+#   Criação de instâncias do Amazon EC2
 
 Este documento descreve os passos para iniciar e configurar instâncias EC2 na AWS, utilizando o Console de Gerenciamento da AWS e a AWS CLI.
 
