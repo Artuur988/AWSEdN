@@ -2,6 +2,13 @@
 
 Este documento descreve os passos para iniciar e configurar instâncias EC2 na AWS, utilizando o Console de Gerenciamento da AWS e a AWS CLI.
 
+## Objetivos 
+-Executar uma instância do EC2 usando o Console de Gerenciamento da AWS.
+
+-Conectar-se à instância do EC2 usando o EC2 Instance Connect.
+
+-Iniciar uma instância do EC2 usando a AWS CLI.
+
 ---
 
 ## **Tarefa 1: Iniciar uma instância EC2 pelo Console**  
