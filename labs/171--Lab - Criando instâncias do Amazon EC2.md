@@ -9,6 +9,11 @@ Este documento descreve os passos para iniciar e configurar instâncias EC2 na A
 
 -Iniciar uma instância do EC2 usando a AWS CLI.
 
+## Diagrama do fluxo 
+
+![EDN-EC2-CLI drawio](https://github.com/user-attachments/assets/d5f44b3f-e111-4773-a76c-2ab03deadd50)
+
+
 ---
 
 ## **Tarefa 1: Iniciar uma instância EC2 pelo Console**  
