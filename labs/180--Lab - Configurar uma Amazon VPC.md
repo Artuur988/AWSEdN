@@ -1,4 +1,4 @@
-# Trabalhar com o Amazon EBS
+# Configurar uma VPC
 
 
 ## Objetivo
@@ -11,10 +11,9 @@
 
 - Usar um servidor bastion para fazer login em uma instância em uma sub-rede privada.
 
-### Diagrama do fluxo ✅
+### Diagrama do fluxo
 
-
-<img width="813" alt="lab-scenario" src="https://github.com/user-attachments/assets/24d6800c-bb3a-4161-94e0-72c51f4db4f5" />
+![architecture](https://github.com/user-attachments/assets/27c43ba0-404c-4280-82e6-44ec8bc17b69)
 
 # Configuração de VPC na AWS
 
